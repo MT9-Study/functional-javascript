@@ -26,3 +26,6 @@ https://github.com/MT9-Study/functional-javascript/discussions/2
 
 ### 참고 도서
 - [함수형 자바스크립트 | 유인동](https://www.yes24.com/Product/Goods/56885507)
+
+### 참고 링크
+- [예제 소스 코드](https://github.com/indongyoo/functional-javascript?tab=readme-ov-file)
