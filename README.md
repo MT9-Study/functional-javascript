@@ -17,7 +17,7 @@ https://github.com/MT9-Study/functional-javascript/discussions/2
 
 ## ⚡️ Members
 * 김도경(Frontend) [@dkkim0122](https://github.com/dkkim0122)
-* 우진택(Frontend)
+* 우진택(Frontend) [@nostrss](https://github.com/nostrss)
 * 조아라(Backend) [@arara90](https://github.com/arara90)
 * 차현진(Backend) [@gumpcha](https://github.com/gumpcha)
 
