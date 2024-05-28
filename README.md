@@ -5,8 +5,8 @@
 https://github.com/MT9-Study/functional-javascript/discussions/2
 | No. | Discussion | Date |
 | :-: | :---------: | :-: |
-|01|[함수형 자바스크립트 소개](https://github.com/MT9-Study/functional-javascript/discussions/2) | 24.04.25 ~ |
-|02|[함수형 자바스크립트를 위한 문법 다시 보기](https://github.com/MT9-Study/functional-javascript/discussions/3) | 24.00.00 ~ 24.00.00 |
+|01|[함수형 자바스크립트 소개](https://github.com/MT9-Study/functional-javascript/discussions/2) | 24.04.25 ~ 24.05.20 |
+|02|[함수형 자바스크립트를 위한 문법 다시 보기](https://github.com/MT9-Study/functional-javascript/discussions/3) | 24.05.20 ~ 24.00.00 |
 |03|[Underscore.js를 직접 만들며 함수형 자바스크립트의 뼈대 익히기](https://github.com/MT9-Study/functional-javascript/discussions/4)
 |04|[함수 조립하기](https://github.com/MT9-Study/functional-javascript/discussions/5) | 24.00.00 ~ 24.00.00 |
 |05|[Partial.js와 함수 조립](https://github.com/MT9-Study/functional-javascript/discussions/6)| 24.00.00 ~ 24.00.00 |
